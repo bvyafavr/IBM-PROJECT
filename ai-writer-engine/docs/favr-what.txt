@@ -1,0 +1,4 @@
+About Us & How It Works
+Favr is a community-powered platform that makes it easy to ask for help or offer it. Whether you need a quick favor like picking up groceries or want to earn by helping someone nearby, Favr connects people in real-time based on location and task type. Users can sign up with just their phone number, browse local favor requests, and either post their own or respond to others. With categories ranging from simple tasks to paid gigs, Favr empowers people to support each other and make small earnings along the way. It’s safe, simple, and all about building trust through everyday acts of kindness.
+To keep things smooth, we’ve built in real-time chat, smart task matching, and secure user verification. Favr is more than an app — it’s a movement to bring back everyday goodwill in a digital world.
+
